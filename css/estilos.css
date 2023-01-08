@@ -1,7 +1,12 @@
  body 
 {
+<<<<<<< HEAD
     background: #1e1f24 ;
     color: #333;
+=======
+    color: black;
+    background-color: gray;
+>>>>>>> footer
     text-align: center;
     font-family: "Arial";
     font-size: 30px;
