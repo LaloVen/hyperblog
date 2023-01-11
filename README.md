@@ -7,6 +7,7 @@ En este curso vemos de todo:
 * Comandos Git
 * El flujo de trabajo de GitHub
 * Buenas prácticas
+* creado por el increible GVtech team
 
 Y como recordatorio este **README es tranquilo.**
 
